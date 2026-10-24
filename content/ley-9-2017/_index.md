@@ -17,7 +17,7 @@ Preguntas tipo test para auxiliar administrativo C2. Comprueba la opción correc
 
 El apartado 1 del artículo 1 establece que la ley tiene por objeto regular la contratación del sector público, para garantizar la libertad de acceso a las licitaciones, la publicidad y la transparencia de los procedimientos, y la no discriminación y la igualdad de trato entre los licitadores.
 
-**Referencia:** artículo 1.1 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 1.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 2. ¿Forman parte del sector público, a efectos de la Ley 9/2017, las Administraciones de las Comunidades Autónomas?
@@ -32,7 +32,7 @@ El apartado 1 del artículo 1 establece que la ley tiene por objeto regular la c
 
 El apartado 1.a) del artículo 3 incluye en el sector público a las Administraciones de las Comunidades Autónomas. La Administración de la Comunidad Autónoma de Galicia, de la que depende el Sergas, entra en ese ámbito.
 
-**Referencia:** artículo 3.1.a) de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 3.1.a) de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 3. En un contrato de asistencia sanitaria de urgencia con valor estimado inferior a 30.000 euros, ¿qué basta, además de justificar la urgencia?
@@ -47,7 +47,7 @@ El apartado 1.a) del artículo 3 incluye en el sector público a las Administrac
 
 En esos contratos no se aplican las normas de la ley sobre preparación y adjudicación. Basta justificar la urgencia, determinar el objeto, fijar el precio y designar la empresa que ejecutará la prestación.
 
-**Referencia:** artículo 131.4 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 131.4 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 4. ¿Qué es un contrato de obras según la Ley 9/2017?
@@ -62,7 +62,7 @@ En esos contratos no se aplican las normas de la ley sobre preparación y adjudi
 
 El artículo 13.1 define el contrato de obras como la ejecución de una obra, aislada o con el proyecto, o de trabajos del Anexo I. El artículo 13.2 entiende por obra el resultado de un conjunto de trabajos de construcción o de ingeniería civil destinado a un bien inmueble.
 
-**Referencia:** artículos 13.1 y 13.2 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículos 13.1 y 13.2 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 5. ¿Cuál es el objeto de un contrato de suministro?
@@ -77,7 +77,7 @@ El artículo 13.1 define el contrato de obras como la ejecución de una obra, ai
 
 El artículo 16.1 reserva el contrato de suministro a la adquisición, el arrendamiento financiero o el arrendamiento, con o sin opción de compra, de productos o bienes muebles.
 
-**Referencia:** artículo 16.1 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 16.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 6. ¿Cuál es el objeto de un contrato de servicios?
@@ -92,7 +92,7 @@ El artículo 16.1 reserva el contrato de suministro a la adquisición, el arrend
 
 El artículo 17 define así el contrato de servicios. El mismo artículo excluye los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.
 
-**Referencia:** artículo 17 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 17 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 7. ¿Cuándo un contrato de obras es un contrato menor por su valor estimado?
@@ -107,7 +107,7 @@ El artículo 17 define así el contrato de servicios. El mismo artículo excluye
 
 El artículo 118.1 fija el umbral del contrato menor de obras en un valor estimado inferior a 40.000 euros.
 
-**Referencia:** artículo 118.1 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 118.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 8. ¿Cuándo un contrato de suministro o de servicios es un contrato menor por su valor estimado?
@@ -122,10 +122,10 @@ El artículo 118.1 fija el umbral del contrato menor de obras en un valor estima
 
 El artículo 118.1 fija el umbral del contrato menor de suministro o de servicios en un valor estimado inferior a 15.000 euros.
 
-**Referencia:** artículo 118.1 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 118.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
-### 9. ¿Qué duración máxima puede tener un contrato menor y cabe prorrogarlo?
+### 9. ¿Qué duración máxima puede tener un contrato menor? ¿Cabe prorrogarlo?
 
 - A) Cinco años, incluidas las prórrogas.
 - B) Un año, y el órgano de contratación puede prorrogarlo por otro año.
@@ -137,7 +137,7 @@ El artículo 118.1 fija el umbral del contrato menor de suministro o de servicio
 
 El artículo 29.8 dice que los contratos menores definidos en el artículo 118.1 no pueden tener una duración superior a un año ni ser objeto de prórroga.
 
-**Referencia:** artículo 29.8 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 29.8 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 10. ¿Qué documentos exige el expediente de un contrato menor?
@@ -152,7 +152,7 @@ El artículo 29.8 dice que los contratos menores definidos en el artículo 118.1
 
 El artículo 118.2 exige el informe del órgano de contratación que justifique la necesidad y que no se altera el objeto para eludir los umbrales. El artículo 118.3 exige, además, la aprobación del gasto y la factura.
 
-**Referencia:** artículos 118.2 y 118.3 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículos 118.2 y 118.3 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 11. ¿Se puede fraccionar un contrato para bajar su cuantía y eludir la publicidad o el procedimiento que corresponda?
@@ -167,10 +167,10 @@ El artículo 118.2 exige el informe del órgano de contratación que justifique 
 
 El artículo 99.2 prohíbe fraccionar un contrato con la finalidad de disminuir su cuantía y eludir los requisitos de publicidad o el procedimiento de adjudicación que corresponda.
 
-**Referencia:** artículo 99.2 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 99.2 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
-### 12. En el procedimiento abierto, ¿quién puede presentar una proposición y cabe negociar los términos del contrato?
+### 12. En el procedimiento abierto, ¿quién puede presentar una proposición? ¿Cabe negociar los términos del contrato?
 
 - A) Solo los empresarios invitados por el órgano de contratación, y los términos se negocian.
 - B) Cualquier empresario interesado, y queda excluida toda negociación de los términos del contrato.
@@ -182,7 +182,7 @@ El artículo 99.2 prohíbe fraccionar un contrato con la finalidad de disminuir 
 
 El artículo 156.1 permite que todo empresario interesado presente una proposición y excluye toda negociación de los términos del contrato con los licitadores.
 
-**Referencia:** artículo 156.1 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 156.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 13. ¿Cómo pueden adjudicarse los contratos menores?
@@ -197,10 +197,10 @@ El artículo 156.1 permite que todo empresario interesado presente una proposici
 
 El artículo 131.3 permite adjudicar los contratos menores directamente a cualquier empresario con capacidad de obrar y habilitación profesional necesaria para realizar la prestación, con las normas del artículo 118.
 
-**Referencia:** artículo 131.3 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 131.3 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
-### 14. ¿Cómo se difunde el perfil de contratante y hace falta identificarse para consultar su información?
+### 14. ¿Cómo se difunde el perfil de contratante? ¿Hace falta identificarse para consultar su información?
 
 - A) Solo en el boletín oficial de la provincia, con certificado electrónico.
 - B) Exclusivamente por Internet, y el acceso a la información es libre, sin identificación previa.
@@ -212,7 +212,7 @@ El artículo 131.3 permite adjudicar los contratos menores directamente a cualqu
 
 El artículo 63.1 obliga a difundir el perfil de contratante exclusivamente por Internet. El acceso a su información es libre y no requiere identificación previa.
 
-**Referencia:** artículo 63.1 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 63.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 15. ¿De cuánto es, con carácter ordinario, la garantía definitiva?
@@ -227,7 +227,7 @@ El artículo 63.1 obliga a difundir el perfil de contratante exclusivamente por 
 
 El artículo 107.1 exige, con las salvedades de ese artículo, una garantía del 5 por ciento del precio final ofertado, excluido el IVA.
 
-**Referencia:** artículo 107.1 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 107.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 16. ¿A quién debe designar el órgano de contratación para supervisar la ejecución?
@@ -242,7 +242,7 @@ El artículo 107.1 exige, con las salvedades de ese artículo, una garantía del
 
 El artículo 62.1 obliga a los órganos de contratación a designar un responsable del contrato. Le corresponde supervisar la ejecución y adoptar las decisiones e instrucciones necesarias para asegurar la prestación, dentro de las facultades que le atribuyan.
 
-**Referencia:** artículo 62.1 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 62.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 17. ¿En qué procedimientos asiste la mesa de contratación al órgano de contratación y quién la compone?
@@ -257,7 +257,7 @@ El artículo 62.1 obliga a los órganos de contratación a designar un responsab
 
 El artículo 326.1 exige mesa en esos procedimientos, con las excepciones que el propio artículo señala. El artículo 326.3 dice que la mesa está constituida por un presidente, los vocales que se determinen reglamentariamente y un secretario.
 
-**Referencia:** artículos 326.1 y 326.3 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículos 326.1 y 326.3 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 18. ¿Cómo se adjudican ordinariamente los contratos?
@@ -270,9 +270,9 @@ El artículo 326.1 exige mesa en esos procedimientos, con las excepciones que el
 {{< respuesta >}}
 **Opción correcta:** D
 
-El artículo 145.1 establece que la adjudicación utiliza una pluralidad de criterios en base a la mejor relación calidad-precio. Solo con justificación previa en el expediente cabe atender a la mejor relación coste-eficacia sobre la base del precio o del coste.
+El artículo 145.1 establece que la adjudicación utiliza una pluralidad de criterios basados en la mejor relación calidad-precio. Solo con justificación previa en el expediente cabe atender a la mejor relación coste-eficacia sobre la base del precio o del coste.
 
-**Referencia:** artículo 145.1 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 145.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 19. ¿Cómo se formalizan los contratos que celebran las Administraciones Públicas?
@@ -287,7 +287,7 @@ El artículo 145.1 establece que la adjudicación utiliza una pluralidad de crit
 
 El artículo 153.1 exige esa formalización en documento administrativo. El contratista puede pedir que se eleve a escritura pública, y en ese caso los gastos corren de su cargo.
 
-**Referencia:** artículo 153.1 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 153.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 20. ¿En qué plazo debe la Administración abonar el precio convenido?
@@ -302,5 +302,5 @@ El artículo 153.1 exige esa formalización en documento administrativo. El cont
 
 El artículo 198.4 obliga a abonar el precio dentro de los treinta días siguientes a la fecha de aprobación de las certificaciones de obra o de los documentos que acrediten la conformidad con el contrato de los bienes entregados o servicios prestados.
 
-**Referencia:** artículo 198.4 de la Ley 9/2017, de Contratos del Sector Público, (BOE-A-2017-12902).
+**Referencia:** artículo 198.4 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
