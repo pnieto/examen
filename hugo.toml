@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://examen.pnieto.xyz/"
 locale = "es"
 languageCode = "es"
 defaultContentLanguage = "es"
