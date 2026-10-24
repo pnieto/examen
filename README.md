@@ -2,7 +2,7 @@
 
 Práctica para la oposición de auxiliar administrativo, grupo C2, del Servizo Galego de Saúde (Sergas). La portada enlaza las dos leyes. La respuesta de cada pregunta permanece oculta hasta que pulsas «Mostrar respuesta».
 
-Por ahora cada ley muestra solo su primera pregunta.
+Cada página de ley tiene 20 preguntas tipo test. El botón «Mostrar respuesta» cita el artículo del texto consolidado del BOE.
 
 ## Requisitos
 
