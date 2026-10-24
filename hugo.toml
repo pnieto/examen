@@ -1,0 +1,31 @@
+baseURL = "/"
+locale = "es"
+languageCode = "es"
+defaultContentLanguage = "es"
+title = "Examen auxiliar administrativo C2"
+theme = "PaperMod"
+relativeURLs = true
+
+[markup.goldmark.renderer]
+  unsafe = false
+
+[params]
+  defaultTheme = "auto"
+  disableSpecial1stPost = true
+  ShowShareButtons = false
+  ShowReadingTime = false
+  ShowBreadCrumbs = true
+  comments = false
+  ShowCodeCopyButtons = false
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = false
+
+[[menu.main]]
+  name = "Ley 9/2017"
+  url = "/ley-9-2017/"
+  weight = 1
+
+[[menu.main]]
+  name = "Ley 30/2015"
+  url = "/ley-30-2015/"
+  weight = 2

@@ -1,0 +1,7 @@
+{{- $id := printf "respuesta-%d" .Ordinal -}}
+<div class="respuesta" data-respuesta>
+  <button type="button" class="respuesta__boton" data-respuesta-toggle aria-expanded="false" aria-controls="{{ $id }}">Mostrar respuesta</button>
+  <div id="{{ $id }}" class="respuesta__panel" data-respuesta-panel hidden>
+    {{ .Inner | markdownify }}
+  </div>
+</div>

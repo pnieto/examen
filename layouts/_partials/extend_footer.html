@@ -1,0 +1,30 @@
+<script>
+  document.addEventListener("click", function (event) {
+    var target = event.target;
+    if (!(target instanceof Element)) {
+      return;
+    }
+    var button = target.closest("[data-respuesta-toggle]");
+    if (!button) {
+      return;
+    }
+    var root = button.closest("[data-respuesta]");
+    if (!root) {
+      return;
+    }
+    var panel = root.querySelector("[data-respuesta-panel]");
+    if (!panel) {
+      return;
+    }
+    var open = panel.hasAttribute("hidden");
+    if (open) {
+      panel.removeAttribute("hidden");
+      button.setAttribute("aria-expanded", "true");
+      button.textContent = "Ocultar respuesta";
+    } else {
+      panel.setAttribute("hidden", "");
+      button.setAttribute("aria-expanded", "false");
+      button.textContent = "Mostrar respuesta";
+    }
+  });
+</script>
