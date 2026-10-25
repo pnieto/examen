@@ -26,6 +26,6 @@ relativeURLs = true
   weight = 1
 
 [[menu.main]]
-  name = "Ley 30/2015"
-  url = "/ley-30-2015/"
+  name = "Ley 39/2015"
+  url = "/ley-39-2015/"
   weight = 2
