@@ -230,7 +230,7 @@ El artículo 35.1.a) exige motivar, con sucinta referencia de hechos y fundament
 **Referencia:** artículo 35.1.a) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
 {{< /respuesta >}}
 
-### 16. ¿En qué plazo debe cursarse la notificación y qué debe contener?
+### 16. ¿En qué plazo debe cursarse la notificación? ¿Qué debe contener?
 
 - A) Dentro de los diez días desde que se dictó el acto, con el texto íntegro, si pone fin a la vía administrativa, los recursos procedentes, el órgano ante el que se presentan y el plazo.
 - B) Dentro de los tres días, y basta indicar el número de expediente.
@@ -302,7 +302,7 @@ El artículo 48.1 declara anulables los actos que incurren en cualquier infracci
 
 El artículo 122.1 fija en un mes el plazo para interponer el recurso de alzada si el acto es expreso. Transcurrido ese plazo sin recurrir, la resolución queda firme. El plazo máximo para dictar y notificar la resolución del recurso es de tres meses.
 
-**Referencia:** artículo 122.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+**Referencia:** artículos 122.1 y 122.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
 {{< /respuesta >}}
 
 ### 21. Para interponer un recurso o desistir de una solicitud en nombre de otra persona, ¿hace falta acreditar la representación?
@@ -467,7 +467,7 @@ El artículo 28.2 reconoce ese derecho. La Administración puede consultar o rec
 
 El artículo 117.1 establece que el recurso no suspende la ejecución. El órgano que resuelve puede suspenderla, de oficio o a petición, cuando la ejecución pueda causar perjuicios de imposible o difícil reparación o cuando la impugnación se funde en una causa de nulidad de pleno derecho.
 
-**Referencia:** artículo 117.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+**Referencia:** artículos 117.1 y 117.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
 {{< /respuesta >}}
 
 ### 32. Un plazo señalado por días, ¿desde qué momento se cuenta?
@@ -750,9 +750,9 @@ El artículo 69.1 define así la declaración responsable. El interesado se comp
 {{< respuesta >}}
 **Opción correcta:** C
 
-El artículo 70.1 da esa definición. El expediente tiene formato electrónico y, cuando se remite, incluye un índice numerado de los documentos. No forman parte de él la información auxiliar o de apoyo, como notas, borradores o juicios de valor, salvo los informes solicitados antes de la resolución.
+El artículo 70.1 da esa definición. El expediente tiene formato electrónico y, cuando se remite, incluye un índice numerado de los documentos. No forma parte de él la información auxiliar o de apoyo, como notas, borradores o juicios de valor, salvo los informes solicitados antes de la resolución.
 
-**Referencia:** artículo 70.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+**Referencia:** artículos 70.1, 70.2 y 70.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
 {{< /respuesta >}}
 
 ### 51. ¿Quién impulsa el procedimiento?
@@ -870,9 +870,9 @@ El artículo 85.3 fija esa reducción mínima del 20 por ciento, acumulable, cua
 {{< respuesta >}}
 **Opción correcta:** C
 
-El artículo 88.2 prohíbe agravar la situación inicial. Eso no impide que la Administración incoe de oficio un nuevo procedimiento, si procede. La resolución decide todas las cuestiones planteadas por los interesados y las derivadas del mismo.
+El artículo 88.2 prohíbe agravar la situación inicial. Eso no impide que la Administración incoe de oficio un nuevo procedimiento, si procede. La resolución decide todas las cuestiones planteadas por los interesados y las derivadas del procedimiento.
 
-**Referencia:** artículo 88.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+**Referencia:** artículos 88.1 y 88.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
 {{< /respuesta >}}
 
 ### 59. ¿Puede el interesado desistir de su solicitud o renunciar a su derecho?
@@ -887,7 +887,7 @@ El artículo 88.2 prohíbe agravar la situación inicial. Eso no impide que la A
 
 El artículo 94.1 reconoce el desistimiento y la renuncia. La Administración los acepta de plano y declara concluso el procedimiento, salvo que otros interesados personados pidan continuarlo en los diez días siguientes a la notificación. Si hay interés general, la Administración puede limitar los efectos al interesado y seguir el procedimiento.
 
-**Referencia:** artículo 94.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+**Referencia:** artículos 94.1, 94.4 y 94.5 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
 {{< /respuesta >}}
 
 ### 60. Si un procedimiento iniciado a solicitud del interesado se paraliza por causa que le es imputable, ¿cuándo caduca?
@@ -902,5 +902,5 @@ El artículo 94.1 reconoce el desistimiento y la renuncia. La Administración lo
 
 El artículo 95.1 exige esa advertencia y el transcurso de tres meses. La caducidad se notifica y cabe recurso contra ella. No produce por sí sola la prescripción. No puede declararse por la simple inactividad en trámites que no sean indispensables para resolver.
 
-**Referencia:** artículo 95.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+**Referencia:** artículos 95.1, 95.2 y 95.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
 {{< /respuesta >}}

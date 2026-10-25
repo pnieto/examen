@@ -245,7 +245,7 @@ El artículo 62.1 obliga a los órganos de contratación a designar un responsab
 **Referencia:** artículo 62.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
-### 17. ¿En qué procedimientos asiste la mesa de contratación al órgano de contratación y quién la compone?
+### 17. ¿En qué procedimientos asiste la mesa de contratación al órgano de contratación? ¿Quién la compone?
 
 - A) Solo en el procedimiento negociado sin publicidad, y la componen el contratista y el interventor.
 - B) En los procedimientos abierto, abierto simplificado, restringido, de diálogo competitivo, de licitación con negociación y de asociación para la innovación. La componen un presidente, los vocales y un secretario.
@@ -377,7 +377,7 @@ El artículo 29.6.c) limita a diez años esas concesiones de servicios sanitario
 
 El artículo 36.1 fija la formalización como momento de perfección, con esas excepciones. Los contratos basados en un acuerdo marco y los específicos de un sistema dinámico de adquisición se perfeccionan con su adjudicación.
 
-**Referencia:** artículo 36.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
+**Referencia:** artículos 36.1 y 36.3 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 26. ¿Puede una entidad del sector público contratar de palabra?
@@ -452,7 +452,7 @@ El artículo 100.1 define así el presupuesto base de licitación. Al elaborarlo
 
 El artículo 101.1.a) toma ese importe sin IVA. En el cálculo hay que incluir, entre otros conceptos, las opciones, las prórrogas y las modificaciones al alza previstas.
 
-**Referencia:** artículo 101.1.a) de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
+**Referencia:** artículos 101.1.a) y 101.2 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 31. ¿Cómo debe ser el precio de un contrato del sector público?
@@ -512,7 +512,7 @@ El artículo 106.1 descarta la garantía provisional como regla. Si se exige, re
 
 El artículo 106.2 fija ese tope del 3 por ciento del presupuesto base de licitación, IVA excluido. Se devuelve a los licitadores inmediatamente después de la perfección del contrato.
 
-**Referencia:** artículo 106.2 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
+**Referencia:** artículos 106.2 y 106.4 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 35. Además de la garantía definitiva ordinaria, ¿puede exigirse una complementaria?
@@ -542,7 +542,7 @@ El artículo 107.2 permite esa garantía complementaria mediante resolución mot
 
 El artículo 111.1 mantiene la garantía hasta el vencimiento del plazo de garantía y el cumplimiento satisfactorio, o hasta la resolución sin culpa del contratista. Aprobada la liquidación y transcurrido ese plazo, si no hay responsabilidades, se devuelve o se cancela.
 
-**Referencia:** artículo 111.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
+**Referencia:** artículos 111.1 y 111.2 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 37. ¿Cómo se inicia el expediente de contratación de una Administración Pública?
@@ -755,19 +755,19 @@ El artículo 150.3 prohíbe declarar desierta la licitación si hay alguna ofert
 **Referencia:** artículo 150.3 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
-### 51. ¿Cómo debe ser la resolución de adjudicación y en qué plazo se publica?
+### 51. ¿Cómo debe ser la resolución de adjudicación? ¿En qué plazo se publica?
 
 - A) Puede ser verbal y no se publica.
 - B) Basta una nota interna, sin notificación a los licitadores.
 - C) Solo se publica en el boletín oficial de la provincia, dentro de los tres meses.
-- D) Debe ser motivada, se notifica a los candidatos y licitadores y se publica en el perfil de contratante en el plazo de 15 días.
+- D) Debe ser motivada, se notifica a los candidatos y licitadores y se publica en el perfil de contratante en el plazo de quince días.
 
 {{< respuesta >}}
 **Opción correcta:** D
 
 El artículo 151.1 exige la motivación, la notificación y esa publicación en quince días. La notificación indica, entre otros datos, el nombre del adjudicatario y el plazo para formalizar el contrato.
 
-**Referencia:** artículo 151.1 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
+**Referencia:** artículos 151.1 y 151.2 de la Ley 9/2017, de Contratos del Sector Público (BOE-A-2017-12902).
 {{< /respuesta >}}
 
 ### 52. Si el contrato es susceptible de recurso especial, ¿cuándo puede formalizarse?
