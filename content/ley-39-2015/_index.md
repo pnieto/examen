@@ -304,3 +304,603 @@ El artículo 122.1 fija en un mes el plazo para interponer el recurso de alzada 
 
 **Referencia:** artículo 122.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
 {{< /respuesta >}}
+
+### 21. Para interponer un recurso o desistir de una solicitud en nombre de otra persona, ¿hace falta acreditar la representación?
+
+- A) No. En todo trámite se presume la representación, también para recurrir.
+- B) Solo si el representado es una persona jurídica de más de cincuenta trabajadores.
+- C) Sí. Debe acreditarse para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos. En los actos de mero trámite se presume.
+- D) Solo puede actuar el interesado en persona. La representación no está prevista.
+
+{{< respuesta >}}
+**Opción correcta:** C
+
+El artículo 5.3 exige acreditar la representación en esos actos de disposición. Para los actos y gestiones de mero trámite se presume. Puede acreditarse por cualquier medio válido en Derecho que deje constancia fidedigna.
+
+**Referencia:** artículo 5.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 22. Si no se acredita la representación, ¿qué plazo hay para subsanarla?
+
+- A) Diez días, o un plazo superior si las circunstancias lo requieren. Mientras tanto, el acto se tiene por realizado.
+- B) Veinticuatro horas. Pasado ese plazo, el acto es nulo de pleno derecho.
+- C) Tres meses, y el procedimiento caduca de forma automática.
+- D) No cabe subsanación. La falta de representación impide tener por realizado el acto.
+
+{{< respuesta >}}
+**Opción correcta:** A
+
+El artículo 5.6 permite tener por realizado el acto si la representación se aporta o se subsana en el plazo de diez días que conceda el órgano, o en un plazo superior cuando las circunstancias lo requieran.
+
+**Referencia:** artículo 5.6 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 23. ¿Deben tener las Comunidades Autónomas un registro electrónico de apoderamientos?
+
+- A) No. Ese registro solo existe en la Administración General del Estado.
+- B) Solo si lo crea cada organismo sanitario por orden interna.
+- C) No. Los apoderamientos se archivan en papel en el expediente.
+- D) Sí. La Administración General del Estado, las Comunidades Autónomas y las Entidades Locales dispondrán de un registro electrónico general de apoderamientos.
+
+{{< respuesta >}}
+**Opción correcta:** D
+
+El artículo 6.1 obliga a esas administraciones a disponer del registro. En él se inscriben, al menos, los apoderamientos de carácter general otorgados apud acta, de forma presencial o electrónica. Los registros deben ser interoperables entre sí.
+
+**Referencia:** artículo 6.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 24. En un procedimiento tramitado por la Administración de una Comunidad Autónoma, ¿qué lengua se utiliza?
+
+- A) Siempre el castellano, aunque el estatuto de autonomía reconozca otra lengua oficial.
+- B) El uso de la lengua se ajusta a la legislación autonómica correspondiente.
+- C) La que elija el funcionario que recibe el escrito, sin norma aplicable.
+- D) Solo el inglés, si el interesado es extranjero.
+
+{{< respuesta >}}
+**Opción correcta:** B
+
+El artículo 15.2 remite a la legislación autonómica el uso de la lengua en los procedimientos de las Comunidades Autónomas y de las Entidades Locales. En la Administración General del Estado la lengua del procedimiento es el castellano, sin perjuicio del uso de la lengua cooficial cuando el interesado se dirige a un órgano con sede en esa comunidad.
+
+**Referencia:** artículo 15.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 25. El plazo máximo para notificar la resolución expresa, ¿puede superar los seis meses?
+
+- A) No puede exceder de seis meses, salvo que una norma con rango de ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea.
+- B) Sí, hasta dos años, por acuerdo del instructor.
+- C) El máximo legal es siempre de un mes.
+- D) No hay plazo máximo. Cada órgano lo fija en el expediente.
+
+{{< respuesta >}}
+**Opción correcta:** A
+
+El artículo 21.2 dice que el plazo máximo es el que fije la norma del procedimiento, con ese tope de seis meses. Cuando la norma no lo fija, el artículo 21.3 lo establece en tres meses.
+
+**Referencia:** artículo 21.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 26. En un procedimiento iniciado de oficio, ¿desde cuándo se cuenta el plazo máximo para resolver?
+
+- A) Desde que el interesado presenta la primera alegación.
+- B) Desde el día en que se publica el anuncio en el boletín oficial.
+- C) Desde la fecha del acuerdo de iniciación.
+- D) Desde que se practica la última prueba.
+
+{{< respuesta >}}
+**Opción correcta:** C
+
+El artículo 21.3.a) cuenta el plazo, en los procedimientos iniciados de oficio, desde la fecha del acuerdo de iniciación. Si el procedimiento lo inicia el interesado, se cuenta desde la entrada de la solicitud en el registro electrónico del órgano competente.
+
+**Referencia:** artículo 21.3.a) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 27. Si se pide un informe preceptivo a otro órgano, ¿cuánto puede suspenderse el plazo máximo para resolver?
+
+- A) Un año, prorrogable por otro.
+- B) El tiempo que medie entre la petición y la recepción del informe, sin que la suspensión pueda exceder de tres meses.
+- C) Diez días naturales, en todo caso.
+- D) No cabe suspender el plazo por la petición de un informe.
+
+{{< respuesta >}}
+**Opción correcta:** B
+
+El artículo 22.1.d) permite esa suspensión y la limita a tres meses. Si el informe no llega en ese plazo, el procedimiento sigue. La petición y la recepción deben comunicarse a los interesados.
+
+**Referencia:** artículo 22.1.d) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 28. De forma excepcional, ¿puede ampliarse el plazo máximo para resolver y notificar?
+
+- A) No. Ese plazo es improrrogable en todos los procedimientos.
+- B) Sí, por el doble del plazo inicial, sin motivación.
+- C) Sí, pero solo a petición del interesado y por tiempo indefinido.
+- D) Sí, de manera motivada, cuando se hayan agotado los medios personales y materiales. La ampliación no puede ser superior al plazo establecido para el procedimiento.
+
+{{< respuesta >}}
+**Opción correcta:** D
+
+El artículo 23.1 permite ese acuerdo motivado del órgano competente para resolver, a propuesta del instructor o del superior jerárquico. Contra el acuerdo que resuelva sobre la ampliación no cabe recurso, sin perjuicio del que proceda contra la resolución final.
+
+**Referencia:** artículo 23.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 29. En un procedimiento sancionador iniciado de oficio, si vence el plazo máximo sin resolución expresa, ¿qué efecto se produce?
+
+- A) La caducidad. La resolución que la declare ordena el archivo de las actuaciones.
+- B) El silencio estimatorio de la sanción propuesta.
+- C) La notificación edictal automática en el BOE.
+- D) La conversión del expediente en un procedimiento civil.
+
+{{< respuesta >}}
+**Opción correcta:** A
+
+El artículo 25.1.b) produce la caducidad cuando la Administración ejercita potestades sancionadoras o, en general, de intervención, susceptibles de efectos desfavorables o de gravamen. En los procedimientos de oficio de los que puedan derivarse derechos, el silencio es desestimatorio para los interesados que hubieran comparecido.
+
+**Referencia:** artículo 25.1.b) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 30. ¿Tiene que aportar el interesado un documento que ya está en poder de la Administración?
+
+- A) Sí. Debe aportarlo de nuevo en cada trámite, en papel original.
+- B) Solo si han pasado más de quince días desde que lo presentó.
+- C) No. Tiene derecho a no aportar documentos que ya estén en poder de la Administración actuante o que haya elaborado cualquier otra Administración.
+- D) Sí, salvo que el documento sea una instancia firmada el mismo día.
+
+{{< respuesta >}}
+**Opción correcta:** C
+
+El artículo 28.2 reconoce ese derecho. La Administración puede consultar o recabar el documento, salvo que el interesado se oponga. No cabe la oposición cuando el documento se exige en el ejercicio de potestades sancionadoras o de inspección.
+
+**Referencia:** artículo 28.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 31. La interposición de un recurso administrativo, ¿suspende por sí sola la ejecución del acto?
+
+- A) Sí. Todo recurso suspende el acto desde el día de su presentación.
+- B) Sí, pero solo durante diez días.
+- C) Sí, si el recurso es de reposición.
+- D) No. La interposición no suspende la ejecución, salvo que una disposición establezca lo contrario o que el órgano competente acuerde la suspensión.
+
+{{< respuesta >}}
+**Opción correcta:** D
+
+El artículo 117.1 establece que el recurso no suspende la ejecución. El órgano que resuelve puede suspenderla, de oficio o a petición, cuando la ejecución pueda causar perjuicios de imposible o difícil reparación o cuando la impugnación se funde en una causa de nulidad de pleno derecho.
+
+**Referencia:** artículo 117.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 32. Un plazo señalado por días, ¿desde qué momento se cuenta?
+
+- A) Desde el mismo día de la notificación, incluido ese día.
+- B) Desde el lunes siguiente, aunque la notificación sea un martes.
+- C) Desde la fecha del acuerdo de iniciación, en todo plazo.
+- D) A partir del día siguiente a aquel en que tenga lugar la notificación o publicación del acto, o del siguiente a la estimación o desestimación por silencio.
+
+{{< respuesta >}}
+**Opción correcta:** D
+
+El artículo 30.3 fija ese día inicial. Si el plazo se señala por días y la norma no dice otra cosa, son hábiles, y quedan fuera los sábados, los domingos y los festivos.
+
+**Referencia:** artículo 30.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 33. Si el último día del plazo es inhábil, ¿qué ocurre?
+
+- A) El plazo se entiende prorrogado al primer día hábil siguiente.
+- B) El plazo vence el día hábil anterior.
+- C) El plazo queda suspendido durante un mes.
+- D) El acto notificado queda sin efecto.
+
+{{< respuesta >}}
+**Opción correcta:** A
+
+El artículo 30.5 prorroga el plazo al primer día hábil siguiente. Si un día es hábil en el municipio o comunidad del interesado e inhábil en la sede del órgano, o al revés, se considera inhábil en todo caso.
+
+**Referencia:** artículo 30.5 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 34. ¿Puede ampliarse un plazo ya concedido al interesado?
+
+- A) No. Ningún plazo puede ampliarse.
+- B) Sí, por el doble, aunque ya haya vencido.
+- C) Sí. Salvo precepto en contrario, la ampliación no puede exceder de la mitad del plazo, debe notificarse y no cabe ampliar un plazo ya vencido.
+- D) Solo una vez al año y por un máximo de tres días.
+
+{{< respuesta >}}
+**Opción correcta:** C
+
+El artículo 32.1 permite la ampliación, de oficio o a petición, si las circunstancias lo aconsejan y no se perjudican derechos de tercero. El artículo 32.3 exige que la petición y la decisión se produzcan antes del vencimiento. Un plazo ya vencido no se amplía.
+
+**Referencia:** artículos 32.1 y 32.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 35. Acordada la tramitación de urgencia, ¿qué ocurre con los plazos?
+
+- A) Se duplican, para dar más tiempo al interesado.
+- B) Se reducen a la mitad los plazos del procedimiento ordinario, salvo los de presentación de solicitudes y recursos.
+- C) Desaparecen y el órgano resuelve cuando pueda.
+- D) Solo se reduce el plazo de los recursos, no el resto.
+
+{{< respuesta >}}
+**Opción correcta:** B
+
+El artículo 33.1 permite acordar la urgencia, de oficio o a petición, cuando lo aconsejen razones de interés público. La reducción a la mitad no alcanza a la presentación de solicitudes ni a los recursos. Contra el acuerdo no cabe recurso, sin perjuicio del que proceda contra la resolución final.
+
+**Referencia:** artículo 33.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 36. ¿De qué forma se producen los actos administrativos?
+
+- A) Siempre de palabra, y la constancia escrita es potestativa.
+- B) Solo en papel, con firma manuscrita.
+- C) Por correo electrónico ordinario, sin identificación del órgano.
+- D) Por escrito, a través de medios electrónicos, salvo que su naturaleza exija otra forma más adecuada de expresión y constancia.
+
+{{< respuesta >}}
+**Opción correcta:** D
+
+El artículo 36.1 impone esa forma escrita y electrónica. Si la competencia se ejerce de palabra, la constancia escrita, cuando sea necesaria, la firma quien reciba el acto oralmente.
+
+**Referencia:** artículo 36.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 37. ¿Desde cuándo producen efectos los actos administrativos?
+
+- A) Se presumen válidos y producen efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa.
+- B) Desde que el interesado los recurre.
+- C) Siempre con efectos retroactivos de un año.
+- D) Solo desde su publicación en el boletín oficial, en todo caso.
+
+{{< respuesta >}}
+**Opción correcta:** A
+
+El artículo 39.1 establece esa presunción de validez y esa eficacia. La eficacia se demora cuando lo exija el contenido del acto o esté supeditada a la notificación, la publicación o una aprobación superior. La retroactividad es excepcional.
+
+**Referencia:** artículo 39.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 38. Si el interesado rechaza la notificación, ¿qué efecto tiene?
+
+- A) Hay que intentar la notificación durante un mes más.
+- B) El acto queda anulado.
+- C) Se hace constar en el expediente, se da por efectuado el trámite y el procedimiento sigue.
+- D) El plazo para recurrir no empieza hasta que el interesado acepte la notificación.
+
+{{< respuesta >}}
+**Opción correcta:** C
+
+El artículo 41.5 ordena hacer constar el rechazo, las circunstancias del intento y el medio. Con eso el trámite se tiene por efectuado y el procedimiento continúa.
+
+**Referencia:** artículo 41.5 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 39. En una notificación en papel practicada en el domicilio, si el interesado no está, ¿quién puede hacerse cargo?
+
+- A) Solo el interesado, en persona.
+- B) Cualquier persona mayor de catorce años que se encuentre en el domicilio y haga constar su identidad.
+- C) Cualquier menor que abra la puerta.
+- D) Nadie. Hay que dejar el acto en el buzón, sin más constancia.
+
+{{< respuesta >}}
+**Opción correcta:** B
+
+El artículo 42.2 permite la entrega a esa persona mayor de catorce años. Si nadie se hace cargo, se deja constancia del día y la hora y se intenta una sola vez más, en una hora distinta, dentro de los tres días siguientes. Si el segundo intento también fracasa, se sigue el régimen del artículo 44.
+
+**Referencia:** artículo 42.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 40. Si el interesado es desconocido, se ignora el lugar de la notificación o esta no ha podido practicarse, ¿cómo se notifica?
+
+- A) Por correo certificado a la sede de la Administración.
+- B) Basta una llamada telefónica.
+- C) Por un anuncio solo en el tablón del centro de trabajo.
+- D) Por un anuncio publicado en el «Boletín Oficial del Estado».
+
+{{< respuesta >}}
+**Opción correcta:** D
+
+El artículo 44 impone el anuncio en el BOE. Con carácter facultativo y previo, la Administración puede publicar también un anuncio en el boletín de la comunidad autónoma o de la provincia, en el tablón de edictos del ayuntamiento del último domicilio o en el consulado. Esas publicaciones no sustituyen la del BOE.
+
+**Referencia:** artículo 44 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 41. En un procedimiento selectivo o de concurrencia competitiva, ¿cómo se notifican los actos?
+
+- A) Se publican, y la convocatoria debe indicar el medio de las publicaciones sucesivas. Las hechas en otro lugar no tienen validez.
+- B) Solo se notifican en el domicilio de cada aspirante, sin publicación.
+- C) Se publican en cualquier tablón, aunque la convocatoria indique otro medio.
+- D) No hace falta notificarlos ni publicarlos.
+
+{{< respuesta >}}
+**Opción correcta:** A
+
+El artículo 45.1.b) obliga a publicar los actos de los procedimientos selectivos o de concurrencia competitiva. La publicación surte los efectos de la notificación y debe indicar el medio en la convocatoria.
+
+**Referencia:** artículo 45.1.b) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 42. El interesado en un procedimiento, ¿puede conocer cómo va su tramitación?
+
+- A) No. El expediente es reservado hasta la resolución firme.
+- B) Solo cuando el procedimiento haya terminado.
+- C) Sí. Puede conocer en cualquier momento el estado de la tramitación, el sentido del silencio, el órgano competente y los actos de trámite, y obtener copia de los documentos.
+- D) Solo si lo autoriza el superior jerárquico del instructor.
+
+{{< respuesta >}}
+**Opción correcta:** C
+
+El artículo 53.1.a) reconoce ese derecho, incluida la copia de los documentos del procedimiento. Quien se relacione por medios electrónicos puede consultar esa información en el Punto de Acceso General electrónico.
+
+**Referencia:** artículo 53.1.a) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 43. En un procedimiento sancionador, ¿cómo se presume la responsabilidad del investigado?
+
+- A) Se presume responsable desde el acuerdo de iniciación.
+- B) Se presume que no existe responsabilidad administrativa mientras no se demuestre lo contrario.
+- C) La presunción depende de si el escrito de iniciación tiene más de tres páginas.
+- D) Se presume responsable si no comparece en los tres primeros días.
+
+{{< respuesta >}}
+**Opción correcta:** B
+
+El artículo 53.2.b) reconoce al presunto responsable la presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario. También tiene derecho a que se le notifiquen los hechos, las infracciones que puedan constituir y las sanciones que puedan imponerse.
+
+**Referencia:** artículo 53.2.b) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 44. Un acto que pone fin a la vía administrativa, ¿puede recurrirse en reposición?
+
+- A) No. Contra esos actos solo cabe la revisión de oficio.
+- B) Sí, y el recurso de reposición es obligatorio antes de acudir al contencioso-administrativo.
+- C) Solo si el acto es una disposición general.
+- D) Sí, de forma potestativa, ante el mismo órgano que lo dictó, o puede impugnarse directamente ante el orden contencioso-administrativo.
+
+{{< respuesta >}}
+**Opción correcta:** D
+
+El artículo 123.1 ofrece esas dos vías. Si se interpone la reposición, no cabe el contencioso-administrativo hasta que se resuelva expresamente o se produzca la desestimación presunta. El plazo máximo para dictar y notificar la resolución es de un mes.
+
+**Referencia:** artículos 123.1 y 124.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 45. Unas medidas provisionales adoptadas antes de iniciar el procedimiento, ¿en qué plazo deben confirmarse?
+
+- A) En el acuerdo de iniciación, que debe dictarse dentro de los quince días siguientes a su adopción.
+- B) Dentro de los seis meses, sin acuerdo de iniciación.
+- C) No hace falta confirmarlas. Producen efectos indefinidos.
+- D) Dentro de las veinticuatro horas, por el interesado.
+
+{{< respuesta >}}
+**Opción correcta:** A
+
+El artículo 56.2 permite esas medidas, de forma motivada, en casos de urgencia inaplazable y para la protección provisional de los intereses implicados. Quedan sin efecto si no se inicia el procedimiento en quince días o si el acuerdo de iniciación no se pronuncia sobre ellas.
+
+**Referencia:** artículo 56.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 46. En la revisión de oficio iniciada por la propia Administración, si pasan seis meses sin resolución, ¿qué ocurre?
+
+- A) El acto se anula por silencio.
+- B) El plazo se amplía automáticamente otros seis meses.
+- C) El procedimiento caduca.
+- D) La solicitud del interesado se entiende estimada.
+
+{{< respuesta >}}
+**Opción correcta:** C
+
+El artículo 106.5 declara la caducidad cuando el procedimiento de revisión se inició de oficio y transcurren seis meses sin resolución. Si lo inició un interesado, puede entenderse desestimado por silencio. La declaración de nulidad de los actos del artículo 47.1 exige dictamen favorable del Consejo de Estado o del órgano consultivo equivalente de la comunidad autónoma.
+
+**Referencia:** artículos 106.1 y 106.5 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 47. ¿En qué plazo prescribe el derecho a reclamar por responsabilidad patrimonial?
+
+- A) A los tres meses de producido el hecho.
+- B) A los cuatro años, en todo caso.
+- C) No prescribe.
+- D) Al año de producido el hecho o el acto que motive la indemnización, o de manifestarse su efecto lesivo. En daños físicos o psíquicos, desde la curación o la determinación del alcance de las secuelas.
+
+{{< respuesta >}}
+**Opción correcta:** D
+
+El artículo 67.1 fija ese plazo de un año. En la solicitud deben especificarse las lesiones, la relación de causalidad con el funcionamiento del servicio público, la evaluación económica si es posible y el momento en que la lesión se produjo.
+
+**Referencia:** artículo 67.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 48. Si la solicitud no reúne los requisitos, ¿qué plazo hay para subsanarla?
+
+- A) Tres días naturales. Si no se subsana, la solicitud se estima.
+- B) Diez días. Si no se subsana, se tiene al interesado por desistido, previa resolución.
+- C) Un mes, y el silencio es estimatorio.
+- D) No cabe requerimiento de subsanación.
+
+{{< respuesta >}}
+**Opción correcta:** B
+
+El artículo 68.1 obliga a requerir la subsanación o los documentos preceptivos en diez días, con la advertencia de que, si no se hace, se tendrá al interesado por desistido mediante resolución. Fuera de los procedimientos selectivos o de concurrencia competitiva, ese plazo puede ampliarse hasta cinco días.
+
+**Referencia:** artículo 68.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 49. ¿Qué es una declaración responsable?
+
+- A) El documento en el que el interesado manifiesta, bajo su responsabilidad, que cumple los requisitos, que dispone de la documentación y que la pondrá a disposición de la Administración cuando se le requiera.
+- B) Una resolución de la Administración que reconoce un derecho.
+- C) El informe preceptivo de un órgano consultivo.
+- D) La notificación del silencio administrativo.
+
+{{< respuesta >}}
+**Opción correcta:** A
+
+El artículo 69.1 define así la declaración responsable. El interesado se compromete a mantener el cumplimiento durante el tiempo del reconocimiento o del ejercicio del derecho. La Administración puede requerir en cualquier momento la documentación que lo acredite.
+
+**Referencia:** artículo 69.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 50. ¿Qué es el expediente administrativo?
+
+- A) Solo la resolución final, sin los trámites anteriores.
+- B) El conjunto de borradores e informes internos que no se notifican.
+- C) El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución, así como las diligencias encaminadas a ejecutarla.
+- D) El registro de entrada de todos los órganos de la Administración.
+
+{{< respuesta >}}
+**Opción correcta:** C
+
+El artículo 70.1 da esa definición. El expediente tiene formato electrónico y, cuando se remite, incluye un índice numerado de los documentos. No forman parte de él la información auxiliar o de apoyo, como notas, borradores o juicios de valor, salvo los informes solicitados antes de la resolución.
+
+**Referencia:** artículo 70.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 51. ¿Quién impulsa el procedimiento?
+
+- A) Solo el interesado, trámite a trámite.
+- B) La mesa de contratación, en todo procedimiento.
+- C) El juzgado contencioso-administrativo, desde el inicio.
+- D) Se impulsa de oficio en todos sus trámites y por medios electrónicos.
+
+{{< respuesta >}}
+**Opción correcta:** D
+
+El artículo 71.1 sujeta el procedimiento al principio de celeridad y ordena impulsarlo de oficio, por medios electrónicos, con transparencia y publicidad. En asuntos de la misma naturaleza se respeta el orden de incoación, salvo orden motivada en contrario.
+
+**Referencia:** artículo 71.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 52. Si la norma no fija otro plazo, ¿en cuánto tiempo debe el interesado cumplimentar un trámite?
+
+- A) En diez días a partir del siguiente al de la notificación del acto.
+- B) En veinticuatro horas.
+- C) En tres meses.
+- D) No hay plazo. Puede cumplimentarlo cuando quiera, sin perder el trámite.
+
+{{< respuesta >}}
+**Opción correcta:** A
+
+El artículo 73.1 fija esos diez días, salvo que la norma correspondiente señale otro plazo. Si no se cumple, puede declararse la decadencia en el derecho al trámite. Aun así, la actuación produce efectos si se hace antes o el mismo día en que se notifica la resolución que tiene por transcurrido el plazo.
+
+**Referencia:** artículo 73.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 53. Cuando se abre un período de prueba, ¿de qué duración es?
+
+- A) De cinco días naturales, sin posibilidad de ampliarlo.
+- B) No superior a treinta días ni inferior a diez. El instructor puede abrir un período extraordinario de no más de diez días.
+- C) De seis meses, improrrogables.
+- D) El instructor no puede abrir prueba. Solo propone pruebas el interesado.
+
+{{< respuesta >}}
+**Opción correcta:** B
+
+El artículo 77.2 fija ese período cuando la Administración no tiene por ciertos los hechos alegados o la naturaleza del procedimiento lo exige. Las pruebas propuestas por los interesados solo pueden rechazarse, mediante resolución motivada, cuando sean manifiestamente improcedentes o innecesarias.
+
+**Referencia:** artículo 77.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 54. Salvo que una norma diga lo contrario, ¿cómo son los informes?
+
+- A) Preceptivos y vinculantes.
+- B) Facultativos y vinculantes.
+- C) Facultativos y no vinculantes.
+- D) Solo pueden emitirlos los interesados.
+
+{{< respuesta >}}
+**Opción correcta:** C
+
+El artículo 80.1 establece que, salvo disposición expresa en contrario, los informes son facultativos y no vinculantes. Se emiten por medios electrónicos en el plazo de diez días, salvo que una disposición u otros plazos del procedimiento permitan o exijan otro plazo.
+
+**Referencia:** artículo 80.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 55. En el trámite de audiencia, ¿de qué plazo disponen los interesados para alegar?
+
+- A) De cinco días naturales.
+- B) De un mes, improrrogable.
+- C) De tres días, y solo pueden alegar de palabra.
+- D) De un plazo no inferior a diez días ni superior a quince.
+
+{{< respuesta >}}
+**Opción correcta:** D
+
+El artículo 82.2 concede ese plazo para alegar y presentar documentos y justificaciones. La audiencia se abre inmediatamente antes de redactar la propuesta de resolución. Puede prescindirse de ella cuando no figuren ni se tengan en cuenta otros hechos, alegaciones o pruebas que los del interesado.
+
+**Referencia:** artículo 82.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 56. ¿Qué pone fin a la vía administrativa?
+
+- A) La resolución de un recurso de alzada.
+- B) Cualquier acto de trámite.
+- C) La presentación de la solicitud.
+- D) El informe facultativo del instructor.
+
+{{< respuesta >}}
+**Opción correcta:** A
+
+El artículo 114.1.a) incluye las resoluciones de los recursos de alzada entre los actos que ponen fin a la vía administrativa. También la ponen, entre otros, las resoluciones de los órganos que carecen de superior jerárquico y la resolución de los procedimientos de responsabilidad patrimonial.
+
+**Referencia:** artículo 114.1.a) de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 57. En una sanción solo pecuniaria, ¿qué reducción mínima puede aplicarse si el infractor reconoce su responsabilidad o paga voluntariamente?
+
+- A) El 5 por ciento, y las dos reducciones no pueden acumularse.
+- B) Al menos el 20 por ciento sobre el importe de la sanción propuesta, y esas reducciones son acumulables entre sí.
+- C) El 50 por ciento, en todo procedimiento, aunque la sanción no sea pecuniaria.
+- D) Ninguna. El reconocimiento y el pago no reducen la sanción.
+
+{{< respuesta >}}
+**Opción correcta:** B
+
+El artículo 85.3 fija esa reducción mínima del 20 por ciento, acumulable, cuando la sanción tiene únicamente carácter pecuniario. Debe constar en la notificación de iniciación y su efectividad exige desistir o renunciar a cualquier acción o recurso administrativo contra la sanción.
+
+**Referencia:** artículo 85.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 58. En un procedimiento iniciado a solicitud del interesado, ¿puede la resolución agravar su situación inicial?
+
+- A) Sí, si el instructor lo considera conveniente.
+- B) Sí, cuando el interesado no aporta todos los documentos.
+- C) No. La resolución será congruente con las peticiones y en ningún caso puede agravar su situación inicial.
+- D) Sí, hasta el doble de lo pedido.
+
+{{< respuesta >}}
+**Opción correcta:** C
+
+El artículo 88.2 prohíbe agravar la situación inicial. Eso no impide que la Administración incoe de oficio un nuevo procedimiento, si procede. La resolución decide todas las cuestiones planteadas por los interesados y las derivadas del mismo.
+
+**Referencia:** artículo 88.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 59. ¿Puede el interesado desistir de su solicitud o renunciar a su derecho?
+
+- A) No. Una vez presentada la solicitud, el procedimiento debe continuar hasta la resolución.
+- B) Solo puede desistir la Administración.
+- C) Solo dentro de las veinticuatro horas siguientes a la presentación.
+- D) Sí. Puede desistir de su solicitud o, cuando el ordenamiento no lo prohíba, renunciar a sus derechos.
+
+{{< respuesta >}}
+**Opción correcta:** D
+
+El artículo 94.1 reconoce el desistimiento y la renuncia. La Administración los acepta de plano y declara concluso el procedimiento, salvo que otros interesados personados pidan continuarlo en los diez días siguientes a la notificación. Si hay interés general, la Administración puede limitar los efectos al interesado y seguir el procedimiento.
+
+**Referencia:** artículo 94.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
+
+### 60. Si un procedimiento iniciado a solicitud del interesado se paraliza por causa que le es imputable, ¿cuándo caduca?
+
+- A) La Administración le advierte de que, transcurridos tres meses, se producirá la caducidad. Si no reanuda la tramitación, se archivan las actuaciones.
+- B) Caduca a los diez días, sin advertencia.
+- C) No cabe la caducidad en los procedimientos iniciados a solicitud del interesado.
+- D) Caduca al año, aunque el interesado esté cumpliendo los trámites.
+
+{{< respuesta >}}
+**Opción correcta:** A
+
+El artículo 95.1 exige esa advertencia y el transcurso de tres meses. La caducidad se notifica y cabe recurso contra ella. No produce por sí sola la prescripción. No puede declararse por la simple inactividad en trámites que no sean indispensables para resolver.
+
+**Referencia:** artículo 95.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (BOE-A-2015-10565).
+{{< /respuesta >}}
